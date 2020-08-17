@@ -1,2 +1,2 @@
-# diagrams
-Just diagram backup. Nothing special.
+# Diagrams
+Just vector diagram backup. Nothing special.
